@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/clothes_image_view"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/cat_clothes" />
+
+    <TextView
+        android:id="@+id/clothes_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/clothes_image_view"
+        android:layout_centerHorizontal="true"
+        android:textSize="1sp"
+        android:text="@string/cat_clothes"
+        android:textColor="@android:color/white" />
+</RelativeLayout>
+

@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".MainActivity">
+
+    <mn.signlanguage.widgets.CircleMenu
+        android:id="@+id/circlelayout"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:background="@drawable/bg_circle"
+        android:layout_centerInParent="true">
+    </mn.signlanguage.widgets.CircleMenu>
+
+    <RelativeLayout
+        android:id="@+id/circlelayoutChild"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="-250dp"
+        android:background="@drawable/bg_circle_child"
+        android:text="Цагаан толгой"
+        android:src="@drawable/cat_alphabet"
+        android:layout_centerInParent="true">
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/categoryTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/circlelayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:text="कृपया एक श्रेणी निवडा!"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:src="@android:drawable/ic_dialog_info"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/circlelayout"
+        android:layout_alignEnd="@+id/circlelayout" />
+</RelativeLayout>

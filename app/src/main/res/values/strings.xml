@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">हस्तसंवाद </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_splash_screen">हस्तसंवाद</string>
+
+    <string name="action_settings">सेटिंग्ज</string>
+    <string name="title_activity_details">पुढे वाचा</string>
+    <string name="title_activity_details_number">संख्या</string>
+    <string name="title_activity_details_letter">बाराखडी</string>
+    <string name="title_activity_about">बाबत</string>
+    <string name="title_activity_circle_menu">मेनू</string>
+
+    <string name="cat_alphabet">बाराखडी</string>
+    <string name="cat_animal">प्राणी</string>
+    <string name="cat_clothes">कपडे</string>
+    <string name="cat_color">रंग</string>
+    <string name="cat_emotion">भावना</string>
+    <string name="cat_family">कुटुंब</string>
+    <string name="cat_fruit">फळे आणि भाज्या</string>
+    <string name="cat_greeting">शुभेच्छा</string>
+    <string name="cat_nature">नैसर्गिक घटना</string>
+    <string name="cat_number">संख्या</string>
+    <string name="cat_profession">व्यवसाय</string>
+    <string name="cat_pronoun">प्रश्न</string>
+
+    <string name="next">पुढे</string>
+    <string name="prev">मागे</string>
+    <string name="start">सुरु करा </string>
+
+    <string name="slide_title">नमस्कार!</string>
+    <string name="slide_desc">संकेत भाषा मार्गदर्शक!</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_about">बाबत</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="app_copyright">MIT License Copyright (c) 2017 Sign Language.</string>
+    <string name="app_email">radhikakavale1@gmail.com</string>
+    <string name="share_summary">इतरांसह सामायिक करा</string>
+    <string name="rate_summary">कृपया रेट करा आणि टिप्पणी द्या</string>
+    <string name="more_summary">इतर डेव्हलपर पर्याय.</string>
+    <string name="title_app_name">प्रोजेक्ट विषयी </string>
+    <string name="title_app_version">सॉफ्टवेअर आवृत्ती</string>
+    <string name="title_app_email">ईमेल</string>
+    <string name="title_app_copyright">कॉपीराइट</string>
+    <string name="title_app_share">शेअर करा</string>
+    <string name="title_app_rate">रेटिंग द्या</string>
+    <string name="title_app_more">इतर अनुप्रयोग</string>
+    <string name="more_apps">https://github.com/coderquill</string>
+    <string name="share_content"></string>
+    <string name="about_mn">
+        पुणे इन्स्टिट्युट ऑफ कंप्युटर टेक्नोलॉजी, पुणे येथील आय. टी. शाखेतील खालील विद्यार्थ्यांनी अंतिम वर्षान्तर्गत बनवलेला प्रकल्प
+
+        प्रकल्पाचे नाव : "हस्तसंवाद"
+
+        प्रकल्प गट सदस्य:
+            १. रुपाली कावळे
+            २. गिरीजा क्षीरसागर
+            ३. श्रद्धा फलाने
+            ४. श्रेया भट्टड
+
+        प्रकल्प मार्गदर्शक: डॉ. धर्माधिकारी मॅडम
+
+        प्रकल्प समालोचक :
+           १. प्रोफ. रचना छाज्जड
+           २. प्रोफ. एस. बी. देशमुख
+
+
+    </string>
+    <string name="about_en"></string>
+
+    <string name="license_text">
+                                "MIT License
+
+    Copyright (c) 2020 Sign Language
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE."
+
+        "\n\n\n"
+
+    </string>
+</resources>
